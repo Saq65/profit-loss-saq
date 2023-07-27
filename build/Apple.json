@@ -1,0 +1,10 @@
+{
+    "Photo":"iPhone14pro.png",
+    "Name":"iPhone 14pro",
+    "Price":119229,
+    "Stock":true,
+    "Shippedto":["Chennai","Banglore","Mumbai"],
+    "Rating":{"Rate":4.2 ,"Count":6500},
+    "Ram":"6gb",
+    "Storage":"128gb"
+}

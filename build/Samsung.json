@@ -1,0 +1,10 @@
+{
+    "Photo":"samsungs20.png",
+    "Name":"Samsung",
+    "Price":28069,
+    "Stock":true,
+    "Shippedto":["Lucknow","Hydrabad","Mumbai"],
+    "Rating":{"Rate":4.4,"Count":6500},
+    "Ram":"8gb",
+    "Storage":"128gb"
+}

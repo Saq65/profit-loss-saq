@@ -1,0 +1,8 @@
+{
+    "Name": "Samsung tv",
+    "Price": 4200,
+    "Stock": true,
+    "ShippedTo":["Delhi","Kanpur","Hydrabad","Chennai"],
+    "Rating":{"Rate":4.2,"count":6500},
+    "photo":"samsung-tv.png"
+}

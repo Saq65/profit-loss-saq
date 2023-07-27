@@ -1,0 +1,10 @@
+{
+    "Photo":"Redmi-12c.png",
+    "Name":"Redmi 12c",
+    "Price":8499,
+    "Ram":"6gb",
+    "Storage":"128gb",
+    "Stock":true,
+    "Rating":{"Rate":4.5},
+    "Shippedto":["kanpur","kolkata","chennai","banglore"]
+}
